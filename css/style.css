@@ -282,6 +282,9 @@
 .service-item img,
 .team-item img {
     transition: 0.5s;
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
 }
 
 .service-item:hover img,
