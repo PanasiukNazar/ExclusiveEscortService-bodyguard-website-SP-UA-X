@@ -536,3 +536,6 @@ header h2 {
     border-color: #393939;
     color: #fff;
 }
+.navbar h2 {
+    font-size: 1.5em !important;
+}
